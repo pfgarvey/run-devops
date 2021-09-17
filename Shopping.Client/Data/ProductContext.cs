@@ -22,7 +22,7 @@ namespace Shopping.Client.Data
             },
             new Product()
             {
-                Name = "Samsung 10",
+                Name = "Samsung Sucks",
                 Description =
                     "This phone is the company's biggest change to its flagship smartphone in years. It includes a borderless.",
                 ImageFile = "product-2.png",
